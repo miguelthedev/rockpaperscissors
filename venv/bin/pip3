@@ -1,4 +1,4 @@
-#!"/Users/miguelsanchez/Documents/Web Development Projects/Personal Projects/Python Projects/venv/bin/python"
+#!"/Users/miguelsanchez/Documents/Web Development Projects/Personal Projects/RPS Game/venv/bin/python"
 # EASY-INSTALL-ENTRY-SCRIPT: 'pip==19.0.3','console_scripts','pip3'
 __requires__ = 'pip==19.0.3'
 import re
